@@ -14,18 +14,18 @@ This is a simple yet powerful Bash script designed for **bug bounty hunters** an
 
 1️⃣ **Clone the repository**
 ```bash
- git clone https://github.com/yourusername/cloud-bucket-finder.git
- cd cloud-bucket-finder
+ git clone https://github.com/povzayd/bucketgen.git
+ cd bucketgen
 ```
 
 2️⃣ **Make the script executable**
 ```bash
- chmod +x bucket_finder.sh
+ chmod +x bucketgen.sh
 ```
 
 3️⃣ **Run the script**
 ```bash
- ./bucket_finder.sh
+ ./bucketgen.sh
 ```
 
 4️⃣ **Provide Inputs**
